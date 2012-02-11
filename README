@@ -1,0 +1,13 @@
+Scrambler
+(C) Jamie Henson 2012
+
+A program that encrypts bodies of text by incrementally rotating the characters in relation to a user-defined key.
+Can also decrypt, and do both operations at various levels of depth! (for instance, you can encrypt some text
+using several encryption keys, used in a certain order).
+
+Currently implemented:
+ - Encryption/decryption functionality
+
+Next:
+ - Load/save functionality
+ - New file functionality
